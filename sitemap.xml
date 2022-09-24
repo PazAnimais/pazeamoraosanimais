@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://pazeamoraosanimais.org/</loc>
+  <lastmod>2017-02-13T13:23:35+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://pazeamoraosanimais.org/pdf/folheto.pdf</loc>
+  <lastmod>2017-02-10T11:58:36+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://pazeamoraosanimais.org/pdf/encarte1.pdf</loc>
+  <lastmod>2017-02-12T22:04:09+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+</urlset>
